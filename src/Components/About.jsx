@@ -98,7 +98,7 @@ const About = () => {
 </div>
 
        
-<div className='container px-40 py-15 mx-auto flex flex-col items-center justify-center md:flex-row  space-x-20 ' style={{fontFamily:'jost, sans-serif'}}>
+<div className='container px-10 py-15 mx-auto flex flex-col items-center justify-center md:flex-row  space-x-20 ' style={{fontFamily:'jost, sans-serif'}}>
     <div>
 <img src={bgimage2} alt="" />
     </div>
